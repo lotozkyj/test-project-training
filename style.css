@@ -46,5 +46,20 @@
 .addbutton{
     width: 50px;
     margin: 15px;
-
+}
+.exercise ul{
+    width: 80%;
+    background-color: #75a968;
+    border: 2px solid #04a282;
+    margin: 10% auto;
+}
+.exercise ul li{
+    list-style: none;
+    font-size: 30px;
+}
+.iconok{
+    width: 25px;
+}
+.icondelete{
+    width: 25px;
 }
