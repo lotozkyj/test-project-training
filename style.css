@@ -24,7 +24,27 @@
 .data_training{
     border: 1px solid #0c1299;
     border-radius: 3px;
+    margin-top: 5px;
 }
 .data_training ul li{
     list-style: none;
+    width: 95%;
+    height: 30px;
+    background-color: #4aa268;
+    margin-top: 10px;
+    margin-left: -15px;
+    border: 2px solid #04a282;
+    border-radius: 5px;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+#active{
+    background-color: #04a282;
+}
+.addbutton{
+    width: 50px;
+    margin: 15px;
+
 }
