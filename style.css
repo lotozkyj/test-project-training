@@ -1,7 +1,30 @@
 .container{
     width: 1080px;
-    background-color: #369;
+    background-color: #ccc;
     margin: 0 auto;
     border: 1px solid gray;
     border-radius: 3px;
+    display: flex;
+}
+.leftblock{
+    width: 25%;
+    background-color: #369;
+}
+.rightblock{
+    width: 75%;
+    background-color: #0c7f99;
+}
+#editprogramm{
+    margin: 5px 30px;
+}
+.editprogramm{
+    border: 1px solid #0c1299;
+    border-radius: 3px;
+}
+.data_training{
+    border: 1px solid #0c1299;
+    border-radius: 3px;
+}
+.data_training ul li{
+    list-style: none;
 }
